@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://perceptapr.github.io/percepta-website/sitemap.xml
